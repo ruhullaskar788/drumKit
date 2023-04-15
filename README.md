@@ -1,0 +1,3 @@
+- Drum Kit web application
+- Used HTML5, CSS3 and JavaScript ES6
+- Implemented button animation using Javascript
